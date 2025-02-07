@@ -1,3 +1,5 @@
 lib
-graph.html
+graph*.html
 .env
+node_tooltips.json
+filewise_analysis.md

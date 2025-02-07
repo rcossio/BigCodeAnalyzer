@@ -1,5 +1,7 @@
 # BigCodeAnalyzer
 
-Define in a `.env` file `PROJECT_ROOT=/path/to/project/root`
+Define in a `.env`:
+- `PROJECT_ROOT=/path/to/project/root`
+- `NODE_TOOLTIPS=/path/to/md/file`
 
 
